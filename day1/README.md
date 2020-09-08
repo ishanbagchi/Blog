@@ -8,7 +8,7 @@
 
 If you want to find pages with one of several words, use a capitalized <b>OR</b>, results will show pages that includes all the terms.
 
-![Google OR](https://github.com/ishanbagchi/blog/blob/master/day1/images/google-OR.PNG)
+![Google OR](https://ishanbagchi.github.io/blog/day1/images/google-OR.PNG)
 
 ## Blank
 
@@ -16,7 +16,7 @@ If you want to find pages with one of several words, use a capitalized <b>OR</b>
 
 An asterisk works as a wildcard, and helps you find you missing word in a phase.
 
-![Google asterisk](https://github.com/ishanbagchi/blog/blob/master/day1/images/google-A.PNG)
+![Google asterisk](https://ishanbagchi.github.io/blog/day1/images/google-A.PNG)
 
 ## Find news related to a particular location
 
@@ -24,4 +24,4 @@ An asterisk works as a wildcard, and helps you find you missing word in a phase.
 
 Use this on Google News to find stories coming form a particular location.
 
-![Google location](https://github.com/ishanbagchi/blog/blob/master/day1/images/google-LOCATION.PNG)
+![Google location](https://ishanbagchi.github.io/blog/day1/images/google-LOCATION.PNG)
