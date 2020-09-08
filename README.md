@@ -2,10 +2,10 @@
 
 Hello Everyone, Welcome To my blog where I write about different things. 
 
-> The Correct Way of Effective Google Search.<br>
+> The Art of GOOGLEing.<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day1) || 8th Sept, 2020
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?style=for-the-badge)]()
-[![GitHub followers](https://img.shields.io/github/followers/ishanbagchi?label=follow%20%40ishanbagchi&style=for-the-badge)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?label=twitter%20follow%20%40ishanbagchi&style=for-the-badge)](https://mobile.twitter.com/BagchiIshan)
+[![GitHub followers](https://img.shields.io/github/followers/ishanbagchi?label=github%20follow%20%40ishanbagchi&style=for-the-badge)](https://github.com/ishanbagchi)
