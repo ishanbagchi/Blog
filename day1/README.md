@@ -71,3 +71,5 @@ Add a dash just before a word to exclude a search term. This is useful if you se
 ## Conclusion
 
 I listed some of the ways to make effective Google search to ease your day. Hope these helps you. Never stop learning and Happy Gooling!  
+
+</div>
