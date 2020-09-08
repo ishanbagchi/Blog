@@ -4,7 +4,7 @@
 Hello Everyone, Welcome To my blog where I write about different things. 
 
 > The Correct Way of Effective Google Search.<br>
-> [Read More...](https://ishanbagchi.github.io/blog/day1/README.md) || 8th Sept, 2020
+> [Read More...](https://ishanbagchi.github.io/blog/day1) || 8th Sept, 2020
 
 ---
 
