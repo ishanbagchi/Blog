@@ -1,3 +1,5 @@
+<div style="background: #222; color: #eee">
+
 ## My personal blog website.
 
 Hello Everyone, Welcome To my blog where I write about different things. 
