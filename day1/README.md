@@ -1,4 +1,4 @@
-# The Correct Way of Effective Google Search.
+# The Art of GOOGLEing.
 
 <b>GOOGLE</b> - Our day to day life saver. Whenever we stuck on a word, or we have a serious question in our mind, we GOOGLE it. But we face a similar problem every time like we search for <em>Python</em> the snake, and we end up with the programming language. There are many ways for a effective GOOGLE search. Today we will discuss about it.
 
