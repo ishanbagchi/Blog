@@ -8,7 +8,7 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > How to write a clean code.<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day2) || `9th Sept, 2020`
 
-> Easy way to add dark theme in your website
+> Easy way to add dark theme in your website<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day3) || `10th Sept, 2020`
 
 ---
