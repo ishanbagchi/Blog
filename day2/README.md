@@ -42,14 +42,14 @@ The names of the variable should be revealed so that others can understand the p
 `clean code`
 
 ```javascript
-var $d; //elapsed time in days
+var $elapsedTimeInDays;
+var $daysSinceCreation;
 ```
 
 `bad code`
 
 ```javascript
-var $elapsedTimeInDays;
-var $daysSinceCreation;
+var $d; //elapsed time in days
 ```
 
 ## Make code speak

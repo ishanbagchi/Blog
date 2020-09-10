@@ -8,6 +8,9 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > How to write a clean code.<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day2) || `9th Sept, 2020`
 
+> Easy way to add dark theme in your website
+> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day3) || `10th Sept, 2020`
+
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?label=twitter%20follow%20%40BagchiIshan&style=for-the-badge)](https://www.twitter.com/BagchiIshan)
