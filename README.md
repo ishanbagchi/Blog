@@ -11,9 +11,9 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > Easy way to add a dark theme in your website<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day3) || `10th Sept, 2020`
 
-
-> 8 DATA STRUCTURES every programmer must know<br>
+> 8 must know DATA STRUCTURES for programmers<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day4) || `11th Sept, 2020`
+
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?label=twitter%20follow%20%40BagchiIshan&style=for-the-badge)](https://www.twitter.com/BagchiIshan)
