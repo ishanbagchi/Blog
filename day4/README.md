@@ -26,7 +26,7 @@ A **linked list** is a sequential structure that consists of a sequence of items
 
 A **Queue** is a linear structure that follows a particular order in which the operations are performed. The order is First In First Out(FIFO).
 
-![queue image](https://ishanbagchi.github.io/Ishan-Tech-Blog/day4/images/stack.png)
+![queue image](https://ishanbagchi.github.io/Ishan-Tech-Blog/day4/images/queue.png)
 
 ## Hash Table
 
