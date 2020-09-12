@@ -14,6 +14,9 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > 8 must know DATA STRUCTURES for programmers<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day4) || `11th Sept, 2020`
 
+> Shorten up huge URLs to a small link<br> 
+> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day5) || `12th Sept, 2020`
+
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?label=twitter%20follow%20%40BagchiIshan&style=for-the-badge)](https://www.twitter.com/BagchiIshan)
