@@ -41,9 +41,9 @@ After I created my .yml file and ran my workflow, this page displayed after buil
 
 Wacky Wildcards
 
-## Yaml File or Link to Code
+## Link to Code
 
-`{% https://github.com/ishanbagchi/url-shortner %}`
+[@ishanbagchi/url-shortner](https://github.com/ishanbagchi/url-shortner)
 
 ## Note: 
 
