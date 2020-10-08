@@ -20,6 +20,9 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > Complete guide to Linked Lists in JavaScript<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day6) || `13th Sept, 2020`
 
+> The HTML tags neglected<br>
+> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day7) || `10th Oct, 2020`
+
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?label=twitter%20follow%20%40BagchiIshan&style=for-the-badge)](https://www.twitter.com/BagchiIshan)
