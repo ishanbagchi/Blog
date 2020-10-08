@@ -64,4 +64,4 @@ The tag specifies where in a text it would be ok to add a line-break when resize
 
 Hope you enjoyed the post and learned a few things. 
 
-<embed src="http://www.google.com" style="width:500px; height: 300px;">
+<embed src="https://ishanbagchi.github.io/Ishan-Tech-Blog/day7/assets/wbr.html" style="width:500px; height: 300px;">
