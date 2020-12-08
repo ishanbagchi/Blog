@@ -23,6 +23,9 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > The HTML tags neglected<br>
 > [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day7) || `10th Oct, 2020`
 
+> Arrow functions: All you need to know!<br>
+> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day8) || `08nd Dec, 2020`
+
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BagchiIshan?label=twitter%20follow%20%40BagchiIshan&style=for-the-badge)](https://www.twitter.com/BagchiIshan)
