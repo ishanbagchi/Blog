@@ -1,33 +1,36 @@
-## My personal blog website.
+# My Personal Blog Website
 
-Hello Everyone, Welcome To my blog where I write about different things. 
+Hello Everyone, Welcome To my blog where I write about different things.
 
-> The Art of GOOGLEing.<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day1) || `8th Sept, 2020`
+> The Art of GOOGLEing.\
+> [Read More...](https://ishanbagchi.github.io/blog/day1) || `8th Sept, 2020`
 
-> How to write a clean code.<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day2) || `9th Sept, 2020`
+> How to write a clean code.\
+> [Read More...](https://ishanbagchi.github.io/blog/day2) || `9th Sept, 2020`
 
-> Easy way to add a dark theme in your website<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day3) || `10th Sept, 2020`
+> Easy way to add a dark theme in your website\
+> [Read More...](https://ishanbagchi.github.io/blog/day3) || `10th Sept, 2020`
 
-> 8 must know DATA STRUCTURES for programmers<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day4) || `11th Sept, 2020`
+> 8 must know DATA STRUCTURES for programmers\
+> [Read More...](https://ishanbagchi.github.io/blog/day4) || `11th Sept, 2020`
 
-> Shorten up huge URLs to a small link<br> 
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day5) || `12th Sept, 2020`
+> Shorten up huge URLs to a small link\
+> [Read More...](https://ishanbagchi.github.io/blog/day5) || `12th Sept, 2020`
 
-> Complete guide to Linked Lists in JavaScript<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day6) || `13th Sept, 2020`
+> Complete guide to Linked Lists in JavaScript\
+> [Read More...](https://ishanbagchi.github.io/blog/day6) || `13th Sept, 2020`
 
-> The HTML tags neglected<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day7) || `10th Oct, 2020`
+> The HTML tags neglected\
+> [Read More...](https://ishanbagchi.github.io/blog/day7) || `10th Oct, 2020`
 
-> Arrow functions: All you need to know!<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day8) || `08nd Dec, 2020`
+> Arrow functions: All you need to know!\
+> [Read More...](https://ishanbagchi.github.io/blog/day8) || `08th Dec, 2020`
 
-> Arrow functions: All you need to know!<br>
-> [Read More...](https://ishanbagchi.github.io/Ishan-Tech-Blog/day9) || `09nd Dec, 2020`
+> Important Interview Questions: Javascript Version - Part 1\
+> [Read More...](https://ishanbagchi.github.io/blog/day9) || `09th Dec, 2020`
+
+> Important Interview Questions: Javascript Version - Part 2\
+> [Read More...](https://ishanbagchi.github.io/blog/day10) || `10th Dec, 2020`
 
 ---
 
