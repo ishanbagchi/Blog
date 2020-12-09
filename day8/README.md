@@ -36,6 +36,7 @@ let add = (number1, number2) => {  // the curly brace opens a multiline function
 ```
 
 > ## One argument function
+
 If only one argument is passed through the function, the braces can be ommited
 
 ```javascript
