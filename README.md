@@ -30,7 +30,13 @@ Hello Everyone, Welcome To my blog where I write about different things.
 > [Read More...](https://ishanbagchi.github.io/blog/day9) || `09th Dec, 2020`
 
 > Important Interview Questions: Javascript Version - Part 2\
-> [Read More...](https://ishanbagchi.github.io/blog/day10) || `10th Dec, 2020`
+> [Read More...](https://ishanbagchi.github.io/blog/day10a) || `10th Dec, 2020`
+
+> Important Interview Questions: Javascript Version - Part 3\
+> [Read More...](https://ishanbagchi.github.io/blog/day10b) || `10th Dec, 2020`
+
+> Important Interview Questions: Javascript Version - Part 4\
+> [Read More...](https://ishanbagchi.github.io/blog/day11) || `11th Dec, 2020`
 
 ---
 
