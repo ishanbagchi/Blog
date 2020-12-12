@@ -15,7 +15,7 @@
 
 ## What is Git?
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 ## Git commands to **Prepare Repository**:
 
@@ -45,11 +45,11 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Unix/Windows EOL Conversion
 > `git config core.autocrlf true`\
-> Automatically convert between Unix and Windows end of line on commit and checkout
+> Automatically convert between Unix and Windows end of the line on commit and checkout
 
 > ## EOL Conversion on Save Only
 > `git config core.autocrlf input`\
-> Convert CRLF to LF only when comitting, use original line ending on checkout
+> Convert CRLF to LF only when committing, use original line ending on checkout
 
 > ## Change Editor
 > `git config core.editor <editor>`\
@@ -73,7 +73,7 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Show Status
 > `git status`\
-> Show working durectory status, what files changed
+> Show working directory status, what files changed
 
 > ## Add File to Index
 > `git add <file>`\
@@ -105,11 +105,11 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Reverse Commit
 > `git commit --amend`\
-> Replace last commit of the current branch with current index
+> Replace the last commit of the current branch with the current index
 
 > ## Reset Author
 > `git commit --amend --reset-author`\
-> Amend commit author and author date to the committer
+> Amend commit author and author-date to the committer
 
 > ## Change Author
 > `git commit --amend --author="Author Name <email>"`\
@@ -133,7 +133,7 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Diff Working Directory and Branch
 > `git diff <branch-name>`\
-> Show diff between branch and working directory
+> Show diff between a branch and working directory
 
 > ## Show Diff between Branches
 > `git diff <branch-1> <branch-2>`\
@@ -157,15 +157,15 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Checkout to Commit-Name
 > `git checkout <commit-name>`\
-> Checkout to commit-name. Commit name can be branch name, commit hash or relative HEAD referance
+> Checkout to commit-name. Commit name can be branch name, commit hash, or relative HEAD reference
 
 > ## Checkout to Previous Commit
 > `git checkout <HEAD~1>`\
-> Detach HEAD and switch to previous commit. Where ~1 is previous commit, ~2 is previous 2 commits
+> Detach HEAD and switch to the previous commit. Where ~1 is the previous commit, ~2 is the previous 2 commits
 
 > ## Reset Current Head
 > `git reset --hard <commit-name>`\
-> Move current branch HEAD to commit-name. Changes in index AND working directory are discarded. Potentially causing commits after commit-name lose. USE WITH CAUTION
+> Move current branch HEAD to commit-name. Changes in index AND working directory are discarded. Potentially causing commits after a commit-name loss. USE WITH CAUTION
 
 > ## List Branches
 > `git branch [--list]`\
@@ -173,19 +173,19 @@ Git is a free and open source distributed version control system designed to han
 
 > ## List Remote Tracking Branches
 > `git branch -r`\
-> List remote tracking branches
+> List remote-tracking branches
 
 > ## List Branches and Commit Messages
 > `git branch -v`\
 > List branches, hash, and commit message
 
-> ## Sort Branches by Commiter Date
+> ## Sort Branches by Committer Date
 > `git branch -v --sort=commiterdate`\
 > List branches, hash, and commit message sort by committer date
 
 > ## Sort Branches by Author Date
 > `git branch -v --sort=authordate`\
-> List branches, hash and commit messages, sort by author date
+> List branches, hash and commit messages, sort by author-date
 
 > ## List All Branches
 > `git branch -a`\
@@ -233,7 +233,7 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Stash Working Directory
 > `git stash save`\
-> Save working directory state to new stash and clean up working directory
+> Save working directory state to new stash and clean up the working directory
 
 > ## List Stashes
 > `git stash list`\
@@ -241,11 +241,11 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Restore Stash
 > `git stash pop`\
-> Restore last stash and apply to working directory
+> Restore the last stash and apply it to the working directory
 
 > ## Remove Last Stash
 > `git stash drop`\
-> Remove last stash, saved state will be discarded
+> Remove the last stash, saved state will be discarded
 
 > ## Clear Stashes
 > `git stash clear`\
@@ -257,7 +257,7 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Show Remote Repositories
 > `git remote -v`\
-> Show remote repositories name and url for push fetch
+> Show remote repositories name and URL for push fetch
 
 > ## Add Remote Repository
 > `git remote add <remote-name> <url>`\
@@ -297,7 +297,7 @@ Git is a free and open source distributed version control system designed to han
 
 > ## Optimize Repository
 > `git gc`\
-> Remove unnecessary files and referances, optimize repository. It is good idea to run gc periodically
+> Remove unnecessary files and references, optimize repository. It is a good idea to run gc periodically
 
 > ## Optimize Repository if Required
 > `git gc --auto`\
@@ -311,4 +311,4 @@ Git is a free and open source distributed version control system designed to han
 
 ## Conclusion
 
-I mentiond some of the mostly used git commands. To learn more about git commands, visit the official git doccumentation [here](https://git-scm.com/docs).
+I mentioned some of the most used git commands. To learn more about git commands, visit the official git documentation [here](https://git-scm.com/docs).
